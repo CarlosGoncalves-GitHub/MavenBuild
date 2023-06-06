@@ -37,17 +37,14 @@
                     <span id="myIntro" class="w3-hide">W3.CSS: Introduction</span></p>
                 </div>                  
                 <header class="w3-container w3-theme" style="padding:64px 32px">
-                    <h1 class="w3-xxxlarge">W3.CSS</h1>
+                    <h1 class="w3-xxxlarge">Carlos Changing the webpage</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
-                    <h2>What is W3.CSS?</h2>                  
-                    <p>W3.CSS is a modern CSS framework with built-in responsiveness:</p>                  
+                    <h2>What is Jenkins</h2>                                
                     <ul class="w3-leftbar w3-theme-border" style="list-style:none">
-                        <li>Smaller and faster than other CSS frameworks.</li>
-                        <li>Easier to learn, and easier to use than other CSS frameworks.</li>
-                        <li>Uses standard CSS only (No jQuery or JavaScript library).</li>
-                        <li>Speeds up mobile HTML apps.</li>
-                        <li>Provides CSS equality for all devices. PC, laptop, tablet, and mobile:</li>
+                        <li>Jenkins is an open-source automation server widely used for continuous integration and continuous delivery (CI/CD) processes.</li>
+                        <li>It allows developers to automate the building, testing, and deployment of software applications.</li>
+                        <li>Jenkins provides a web-based interface that enables users to create and configure automation jobs using a graphical user interface (GUI).</li>
                     </ul>
                     <br>
                     <img src="./img_responsive.png" style="width:100%" alt="Responsive">                  
